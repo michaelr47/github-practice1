@@ -1,13 +1,12 @@
- 
 .column1 {
-  width: 50%;
-  background-color: gray;
-  float: left;
-  height: 150px;
-}
-.column2 {
     width: 50%;
-    background-color: lightgrey;
+    background-color: gray;
     float: left;
     height: 150px;
-}
+  }
+  .column2 {
+      width: 50%;
+      background-color: lightgrey;
+      float: left;
+      height: 150px;
+  }
